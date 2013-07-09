@@ -1,4 +1,6 @@
 kimios-php-soap
 ===============
 
-PHP Soap API client for Kimios ECM Server
+PHP Soap API client for Kimios Server
+
+You must have php5-soap library.
